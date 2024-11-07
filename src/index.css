@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face {
+        font-family:"irankey" ;
+        src: url(./Assets/fonts/iranyekanwebregularfanum.woff);
+    }
+    @font-face {
+        font-family:"myfont" ;
+        src: url(./Assets/fonts/bootstrap-icons.woff2);
+    }
+    @font-face {
+        font-family:"myfont2" ;
+        src: url(./Assets/fonts/IRANSansWeb_Medium.woff2);
+    }
+   
+}
